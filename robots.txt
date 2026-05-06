@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://homeinternetcafe.netlify.app/sitemap.xml
